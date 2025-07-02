@@ -47,15 +47,6 @@ This is my Midterm Project for Mobile App Development (MAP523NSC) at Seneca. It'
 
 ---
 
-## 🚀 To Run It
-
-1. Download the project and open it in Xcode
-2. All cookie images are added via asset catalog
-3. No API keys needed — everything is local
-4. Run the app on Simulator or your device
-
----
-
 ## 🎥 Demo Video
 
 Watch the app in action here:  
