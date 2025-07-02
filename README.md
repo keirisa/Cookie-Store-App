@@ -32,7 +32,7 @@ This is my Midterm Project for Mobile App Development (MAP523NSC) at Seneca. It'
 
 | Cookie List | Purchase Screen | Sales History | Login |
 |-------------|------------------|----------------|--------|
-| ![List](https://via.placeholder.com/150x300.png?text=Cookie+List) | ![Buy](https://via.placeholder.com/150x300.png?text=Purchase+View) | ![History](https://via.placeholder.com/150x300.png?text=Sales+History) | ![Login](https://via.placeholder.com/150x300.png?text=Login+Screen) |
+| ![cookie_list](https://github.com/user-attachments/assets/1ce8973a-9df5-4d1f-b060-32ab1a96567d) | ![cookie_product](https://github.com/user-attachments/assets/57b35b09-2dd5-4c48-8fbe-797cdc7968fc) | ![cookie_history](https://github.com/user-attachments/assets/5ce6e145-7646-4266-82a4-97b9ad41ae7a) | ![cookie_login](https://github.com/user-attachments/assets/98d471b3-2ea2-44c0-b85a-fae859c474b8) |
 
 ---
 
@@ -68,7 +68,7 @@ Watch the app in action here:
 Hi, I’m **Kate de Leon**, a student at Seneca Polytechnic.  
 This app was built as part of my midterm project, and I really enjoyed working on it from start to finish.
 
-GitHub: [@yourusername](https://github.com/keirisa)
+GitHub: [@Kate de Leon](https://github.com/keirisa)
 
 ---
 
